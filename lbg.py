@@ -5,8 +5,6 @@ NB. mixes LBYL and EAFP to reflect simpler logic
 This version using simple prints to STDOUT rather than formalised logger
 """
 
-#This is change to the file  to learn
-
 # import argparse for passing PORT variable through the cli
 import argparse
 
